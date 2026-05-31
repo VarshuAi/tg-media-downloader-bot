@@ -52,7 +52,7 @@ Styled with a highly aesthetic **Vaporwave / Cyberpunk Mathematical Sans-serif**
    - Duplicate `.env.example` and rename to `.env`
    - Paste your bot token from `@BotFather`:
      ```env
-     BOT_TOKEN=8067370938:AAFo3XFFhGgLLTdwZAK43mlCx82vP0ds_Zw
+     BOT_TOKEN=8077989jhbhvkhZAK43mlCx82vP0ds_Zw
      ```
 5. Run the bot:
    ```bash
