@@ -1,0 +1,7 @@
+.env
+downloads/*
+!downloads/.gitkeep
+__pycache__/
+*.pyc
+.system_generated/
+.gemini/
